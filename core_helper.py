@@ -6,7 +6,7 @@ import re
 import time
 import threading
 
-# 버전 정보
+# 버전 정보 
 VERSION = "v1.1"
 
 # 🎨 다크모드 색상

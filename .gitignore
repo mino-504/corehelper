@@ -34,5 +34,5 @@ wheels/
 .DS_Store
 Thumbs.db
 
-# .gitignore
-# core_helper.py  # 포트폴리오용으로 공개
+.gitignore
+requirements.txt
